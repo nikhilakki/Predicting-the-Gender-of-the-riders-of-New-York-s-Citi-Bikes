@@ -5,4 +5,6 @@ Predicting the Gender of the riders of New York’s Citi Bikes (2015-2017)
 
 [Article on LinkedIn](https://www.linkedin.com/pulse/predicting-gender-riders-new-yorks-citi-bikes-decision-nikhil-akki)
 
+[Dataset & Kernel on Kaggle.com](https://www.kaggle.com/akkithetechie/new-york-city-bike-share-dataset)
+
 [Data Source](https://www.citibikenyc.com/)
